@@ -4,6 +4,7 @@ html{
     background-size:100%;
     font-family: Roboto, sans-serif;
     font-weight: lighter;
+    height: 100%;
 }
 body {
     opacity: 1;
