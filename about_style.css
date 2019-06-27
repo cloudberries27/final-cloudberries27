@@ -1,6 +1,8 @@
 @import "index_style.css";
 html{
     background: linear-gradient(to bottom left, #33cc33, gold);
+    height: 100%;
+    background-repeat: no-repeat;
 }
 header{
     margin-bottom: 0;
