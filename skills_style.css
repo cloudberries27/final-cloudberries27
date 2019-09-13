@@ -1,6 +1,10 @@
 @import "index_style.css";
 html{
-    background: linear-gradient(to bottom left, blue, red);
+    background: linear-gradient(to bottom left, blue, red)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 header {
     margin-bottom: 0;
