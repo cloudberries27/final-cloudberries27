@@ -5,7 +5,11 @@
 }
 
 html{
-    background: linear-gradient(to bottom left, orange, blue);
+    background: linear-gradient(to bottom left, orange, blue)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 section{
     padding-left: 0;
