@@ -1,10 +1,15 @@
 html{
+    
     background: linear-gradient(to bottom left, purple, blue);
     background-repeat: no-repeat;
     background-size:100%;
     font-family: Roboto, sans-serif;
     font-weight: lighter;
     height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 body {
     opacity: 1;
