@@ -4,6 +4,7 @@ html{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: Roboto;
 }
 body {
     opacity: 1;
